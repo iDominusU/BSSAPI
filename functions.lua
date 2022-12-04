@@ -27,3 +27,5 @@ local functions = {
         return(minutes*60)
     end
 }
+
+return(functions)
