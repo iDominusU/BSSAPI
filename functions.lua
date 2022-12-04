@@ -1,4 +1,4 @@
-local functions = {
+local apifunctions = {
     --A tidier way of checking for multiple matched strings.
     ['Find'] = function(target, strings)
         local returns = {}
@@ -28,4 +28,4 @@ local functions = {
     end
 }
 
-return(functions)
+return apifunctions
